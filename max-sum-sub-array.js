@@ -15,4 +15,4 @@ for (let i=0;i<arr.length; i++) {
     }
 }
 console.timeEnd('start');
-console.log(maximum)
+console.log(maximum);
